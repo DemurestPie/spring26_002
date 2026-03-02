@@ -1,1 +1,5 @@
+IS Concentration
+
+Good with source control and managing people/deadlines. 
+Depending on language is good with code (C#, Python, hmtl, SQL).
 
