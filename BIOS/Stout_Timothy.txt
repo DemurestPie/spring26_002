@@ -1,0 +1,34 @@
+Hello, my name is Cole.
+
+I am a Computer Science major here at ETSU.
+
+My most experienced programming language is C#, however, I have worked with javascript a good bit as well in the past. 
+Although less experienced than the previous two, I have also coded in Java and SQL as well as used HTML and CSS in a
+couple of different projects. I also have a little bit of experience using APIs, but I would love to gain more experience.
+I am not very fluent with GitHub, but I want to learn more and improve my ability to use it.
+
+Some of My Past Projects:
+- Created a website with a team for a fake business using HTML and CSS.
+- Created a game of BlackJack in Visual Studio using the WinForms UI Framework using C#.
+- Created a simple weather application in Visual Studio using the WinForms UI Framework with the OpenWeather One Call API using C#.
+- Created a console based Battleship game in Visual Studio using C#.
+- Created a simple maze game in a browser using JavaScript.
+
+Skills:
+- Programming in C#, Javscript, HTML, CSS, SQL, and Java as mentioned above.
+- Some experience with APIs
+- Some experience with web development
+- Some experience with game development
+- Experience with Object-Oriented Programming
+- Problem-solving
+- Adaptability
+- Time Management and Organization
+
+Tools I Am Experienced In:
+- Visual Studio Code and Visual Studio
+- Microsoft Office Suite
+- Maya
+- Blender
+- Unity
+- Unreal Engine 5
+- Greenfoot
